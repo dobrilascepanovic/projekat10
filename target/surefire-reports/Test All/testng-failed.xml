@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test All]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="PLP Sorting(failed)" verbose="0">
+    <classes>
+      <class name="swag.lab.test.plp.PLPSorting">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="sortingPLP"/>
+        </methods>
+      </class> <!-- swag.lab.test.plp.PLPSorting -->
+    </classes>
+  </test> <!-- PLP Sorting(failed) -->
+</suite> <!-- Failed suite [Test All] -->
