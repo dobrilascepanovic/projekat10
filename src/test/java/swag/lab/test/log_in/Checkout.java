@@ -11,4 +11,7 @@ public class Checkout {
         throw new UnsupportedOperationException("TODO");
     }
 
+    public void notImplementedYet2() {
+        throw new UnsupportedOperationException("TODO");
 }
+    }
