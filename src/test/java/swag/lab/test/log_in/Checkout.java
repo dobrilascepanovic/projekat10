@@ -7,5 +7,8 @@ public class Checkout {
     }
 
 
+    public void notImplementedYet1() {
+        throw new UnsupportedOperationException("TODO");
+    }
 
 }
